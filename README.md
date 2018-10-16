@@ -12,3 +12,4 @@ button.setTag(key: &key, value: "This is test")
 if let value = button.getTag(key: &key) as? String {
     print("\(value)")
 }
+
