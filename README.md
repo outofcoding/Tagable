@@ -3,7 +3,7 @@ Class를 상속받지 말고 변수를 tag로 사용할 수 있어요.
 
 # UseCase
 
-```
+``` swift
 extension UIButton: Tagable { }
 
 var key = "TestKey"
