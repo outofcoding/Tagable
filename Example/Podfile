@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Tagable_Example' do
+  pod 'Tagable', :path => '../'
+
+  target 'Tagable_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

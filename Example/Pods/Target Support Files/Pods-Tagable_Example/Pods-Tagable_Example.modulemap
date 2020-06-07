@@ -1,0 +1,6 @@
+framework module Pods_Tagable_Example {
+  umbrella header "Pods-Tagable_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

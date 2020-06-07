@@ -1,0 +1,6 @@
+framework module Tagable {
+  umbrella header "Tagable-umbrella.h"
+
+  export *
+  module * { export * }
+}

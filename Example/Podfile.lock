@@ -1,0 +1,16 @@
+PODS:
+  - Tagable (0.1.0)
+
+DEPENDENCIES:
+  - Tagable (from `../`)
+
+EXTERNAL SOURCES:
+  Tagable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Tagable: 34b869af2e0ccf0775b5f7ffe7a8e25ebbf3c407
+
+PODFILE CHECKSUM: 3e4cd26eac9a3efb294fd237515395edf3a72511
+
+COCOAPODS: 1.8.4
