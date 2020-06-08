@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		04663A336BF6499582CBA3860EAAEC1A /* Tagable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Tagable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		07031547D6B3EE90F6AACF587FA533CC /* Tagable.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = Tagable.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		07031547D6B3EE90F6AACF587FA533CC /* Tagable.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = Tagable.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		14FCB2C203D8653C6AC2509A2E824CE0 /* Pods-Tagable_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tagable_Example.release.xcconfig"; sourceTree = "<group>"; };
 		163FF65F04FD956483DAE664788E442E /* Pods-Tagable_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tagable_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		20BAE6FE0B378EDD93CA3940E637532B /* Pods-Tagable_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Tagable_Tests-umbrella.h"; sourceTree = "<group>"; };
