@@ -16,7 +16,7 @@
 		8A8D6C79497E1EC1961CCC74B206F62D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		B68F115C314B06A226F7C6D165C40B92 /* Pods-Tagable_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 34AF61AED2F21B7EC1730FEE1DE22782 /* Pods-Tagable_Tests-dummy.m */; };
 		BD99F2691F6BA55295C73BFC81BE43B0 /* Pods-Tagable_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4120456CB7F562044EAEFF97276DAC72 /* Pods-Tagable_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E0815A52248DB61900FC518D /* Tagable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0815A51248DB61900FC518D /* Tagable.swift */; };
+		E0815A54248DC3A600FC518D /* Tagable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0815A51248DB61900FC518D /* Tagable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -382,7 +382,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E0815A52248DB61900FC518D /* Tagable.swift in Sources */,
 				2BC900E3B753D2FE6C26918F58C06027 /* Pods-Tagable_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -392,6 +391,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1CCBF88106C54E8F026B342B77FF4F6E /* Tagable-dummy.m in Sources */,
+				E0815A54248DC3A600FC518D /* Tagable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
